@@ -4,7 +4,7 @@ titulo.innerHTML = 'Jogo do número secreto';
 let paragrafo = document.querySelector('p');
 paragrafo.innerHTML = 'Escolha um número entre 1 e 10';
 
-evitar repetir linha 1, 2 e 4, 5*/
+para evitar repetir linha 1, 2 e 4, 5*/
 
 let listaDeNumerosSorteados = [];
 let numeroLimite = 100;
